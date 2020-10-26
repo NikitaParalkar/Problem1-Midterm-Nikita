@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Problem1-Midterm-Nikita</string>
+
+    <string name="name_label">Name</string>
+    <string name="program_label">Program</string>
+
+    <!-- button labels -->
+    <string name="submit">Submit</string>
+    <string name="back">Back</string>
+
+    <!-- default text input -->
+    <string name="std_name">Student Name</string>
+
+    <!-- default output -->
+    <string name="undefined">Undefined</string>
+
+    <!-- validation error -->
+    <string name="required">required</string>
+
+</resources>
